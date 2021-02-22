@@ -93,17 +93,17 @@
 
 					<div class="text-center p-t-0">
 						<span class="txt1">
-							Forgot
+							Status
 						</span>
 						<a class="txt2" href="#">
-							Username / text?
+							No File Uploaded
 						</a>
 					</div>
 <br>
 					<div id="CreateAccDiv">
 						<a id="link-create-acc" href="signup.php">
-							Create your Account
-							
+							Back To Home Page 
+
 						</a>
 					</div>
 				</form>
